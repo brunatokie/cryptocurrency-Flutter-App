@@ -1,6 +1,6 @@
 # crypto_currency
 
-To make this app works need to enter a valid APIKEY in the coin_data page.
+Enter a valid APIKEY in the coin_data page.
 
 ## Getting Started
 
